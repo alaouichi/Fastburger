@@ -1,8 +1,8 @@
 <?php
 $hn='localhost';
 $un='fastburger_admin';
-$pw='eaVM*VOZOz3Mql.A';
-$db='franchise fast burgers';
+$pw='ayu9JksAZZeLMNQ*';
+$db='fast_burger';
 $conn =mysqli_connect($hn,$un,$pw,$db);
 if(!$conn){
 
