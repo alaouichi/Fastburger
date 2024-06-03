@@ -1,8 +1,8 @@
 <?php
 $hn='localhost';
 $un='fastburger_admin';
-$pw='';
-$db='fast_butger';
+$pw='eaVM*VOZOz3Mql.A';
+$db='franchise fast burgers';
 $conn =mysqli_connect($hn,$un,$pw,$db);
 if(!$conn){
 
@@ -10,5 +10,5 @@ if(!$conn){
 
 }
 else{
-    echo('Connection is sucessfull')
+    echo('Connection is sucessfull');
 }
